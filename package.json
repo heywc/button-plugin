@@ -1,0 +1,15 @@
+{
+  "name": "yui-btn",
+  "version": "1.1.9",
+  "description": "测试vue插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-plugin",
+    "btn"
+  ],
+  "author": "heywc",
+  "license": "ISC"
+}

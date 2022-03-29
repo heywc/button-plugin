@@ -1,0 +1,1 @@
+module.exports = require("./plugin/yui-btn/index.js")
